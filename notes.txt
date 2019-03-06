@@ -45,3 +45,21 @@ Executable Code could be transferred
 (doesnt have to be just data)
 All constraints are theory constraints.
 
+
+Version2.0
+API- typical to API
+/products route we can target
+GET POST
+/products/ID
+GET PATCH DELETE
+/orders
+GET POST 
+/orders/ID
+GET DELETE
+Add so they are protected and how to log users in 
+
+Install npm
+Npm init
+Installed express 
+npm install --save express
+(--save creates an entry into package file)
